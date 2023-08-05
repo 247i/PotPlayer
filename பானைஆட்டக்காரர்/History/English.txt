@@ -2,6 +2,35 @@
 Version History of the PotPlayer
 
 ----------------------------------------------------------
+[230705]
+----------------------------------------------------------
++ Added the ability to translate subtitles in addition to selected languages
++ Added support for g726 codec in MP4
++ Added support for ARIB subtitles
+
+- Fixed trackpad scrolling of playlists to be handled smoothly
+- Improved MP4 playback function while downloading
+- Improved raw av1 file playback function
+
+----------------------------------------------------------
+[230523]
+----------------------------------------------------------
+- Fixed an out-of-sync problem when playing with mjpeg codec
+- Fixed a problem where an error occurred when playing with a specific MPEG 2 codec
+- Fixed an issue where the title screen did not appear when playing certain DVDs
+- Fixed the problem that the screen was broken when using certain H264 DXVA
+
+----------------------------------------------------------
+[230405]
+----------------------------------------------------------
++ Added GPU Super Resolution function to built-in D3D11 video renderer
+
+- Fixed an issue where audio visualization did not work when only the right channel had voice
+- Fixed a problem that was captured strangely when capturing with subtitles in the D3D11 video renderer
+- Fixed a problem where sound did not come out in certain situations when playing damaged videos
+- Fixed a problem where sound did not come out in certain flac codecs
+
+----------------------------------------------------------
 [230207]
 ----------------------------------------------------------
 + Added WEBP format to video capture
