@@ -14,7 +14,7 @@ Extension/Subtitle/Search/SubtitleSearch - ysubs.as,01d9aedf,3625c49d,0000165a
 Extension/Subtitle/Search/SubtitleSearch - ysubs.ico,01d9aedf,362612f5,0000047e
 Extension/Subtitle/Translate/SubtitleTranslate - bing.as,01d9aedf,36278a65,00001284
 Extension/Subtitle/Translate/SubtitleTranslate - bing.ico,01d9aedf,3627ff96,00004316
-Extension/Subtitle/Translate/SubtitleTranslate - google.as,01d9aedf,36284d8a,0000149f
+Extension/Subtitle/Translate/SubtitleTranslate - google.as,01d9dae4,0b675249,00001639
 Extension/Subtitle/Translate/SubtitleTranslate - google.ico,01d9aedf,36289bc6,00001536
 Extension/Subtitle/Translate/SubtitleTranslate - papago.as,01d9aedf,3628e9e4,00000040
 Extension/Subtitle/Translate/SubtitleTranslate - papago.ico,01d9aedf,362937f6,00001ece
@@ -22,61 +22,62 @@ Extension/Subtitle/Translate/SubtitleTranslate - papagoNMT.as,01d9aedf,36298609,
 Extension/Subtitle/Translate/SubtitleTranslate - papagoNMT.ico,01d9aedf,3629d42d,00001ece
 Extension/Subtitle/Translate/SubtitleTranslate - Yandex.as,01d9aedf,3626d615,00000fd6
 Extension/Subtitle/Translate/SubtitleTranslate - Yandex.ico,01d9aedf,362727db,00001536
-Extension/Media/PlayParse/MediaPlayParse - YouTube.as,01d9aedf,361d11bb,00012ae2
+Extension/Media/PlayParse/MediaPlayParse - YouTube.as,01da0d3c,e886ba66,00012b64
 Extension/Media/PlayParse/MediaPlayParse - YouTube.ico,01d9aedf,361d86dc,0000047e
 Extension/Media/UrlList/MediaUrlList - YouTube.as,01d9aedf,36209436,00001e86
 Extension/Media/UrlList/MediaUrlList - YouTube.ico,01d9aedf,3620e24e,0000423e
-Skins/Default.dsf,01d9aedf,414a80e4,00068dd9
-Skins/WindowFrame.dsf,01d9aedf,4157f254,00067f48
+Skins/Default.dsf,01d9dae4,0be01e70,00069473
+Skins/WindowFrame.dsf,01d9dae4,0be06c8b,00068552
 UrlList/Radio.asx,01d9aedf,4172f6f5,0000004c
 UrlList/TV.asx,01d9aedf,41731e97,00000023
-Language/Arabic.ini,01d9aedf,3d9ede6e,0003e90f
-Language/Armenian.ini,01d9aedf,3d9fa1c1,0003ecd1
-Language/Azerbaijan.ini,01d9aedf,3da02fcf,00029e5a
-Language/Belarusian.ini,01d9aedf,3da0f31d,00038ce8
-Language/Bulgarian.ini,01d9b071,3e01cf13,00047c36
-Language/Bulgarian.ini,01d9b071,3e01cf13,00047c36
-Language/Catalan.ini,01d9b071,3e037cc9,0002aae9
-Language/Chinese(Simplified).ini,01d9aedf,3da33d0b,00025ab1
-Language/Chinese(Traditional).ini,01d9aedf,3da40058,000277e9
-Language/Czech.ini,01d9aedf,3da4c3a9,0002ec97
-Language/Dutch.ini,01d9aedf,3da55fed,0002bb89
-Language/English.ini,01d9aedf,3da64a52,0002908a
-Language/French.ini,01d9aedf,3da6e7c7,0002f64a
-Language/German.ini,01d9aedf,3da782d3,00025af5
+Language/Arabic.ini,01da15f9,c0b2c6b8,0003e903
+Language/Armenian.ini,01da11f7,7abcb87d,0003eccf
+Language/Azerbaijan.ini,01da11f7,7abd0653,00029e58
+Language/Belarusian.ini,01da11f7,7abd542f,00038ce6
+Language/Bulgarian.ini,01da0df5,f8357d4e,00047aaa
+Language/Bulgarian.ini,01da0df5,f8357d4e,00047aaa
+Language/Catalan.ini,01da0df5,f835cb2d,0002a57c
+Language/Chinese(Simplified).ini,01da0d3c,e8e10f5d,0002594c
+Language/Chinese(Traditional).ini,01da0d3c,e8e15d7d,00027649
+Language/Czech.ini,01da11f7,7abdc8fd,0002ec95
+Language/Dutch.ini,01da11f7,7abe3dd2,0002bb87
+Language/English.ini,01da11f7,7abe8ba8,000290f6
+Language/French.ini,01da11f7,7abed982,0002f750
+Language/German.ini,01da11f7,7abf4e4e,00025af3
 Language/Greek.ini,01d9aedf,3da84793,0003d523
 Language/Hebrew.ini,01d9aedf,3da90c45,0002c772
-Language/Hongkonglocale.ini,01d9aedf,3da9a86b,000224a6
-Language/Hungarian.ini,01d9aedf,3daa44a6,000316b5
-Language/Indonesian.ini,01d9aedf,3daaf7bb,0002897c
-Language/Italian.ini,01d9aedf,3dabbb07,0002c7ff
-Language/Japanese.ini,01d9aedf,3dad1a92,00030052
-Language/Korean.ini,01d9aedf,3dadb5a0,0002c253
+Language/Hongkonglocale.ini,01da11f7,7abf9c2c,000224a4
+Language/Hungarian.ini,01da11f7,7abfea0a,000316b3
+Language/Indonesian.ini,01da11f7,7ac037e9,0002897a
+Language/Italian.ini,01da11f7,7ac0acb6,0002c7fd
+Language/Japanese.ini,01da0d3c,e8e1f9be,0002ff0e
+Language/Korean.ini,01da0d3c,e8e247dd,0002c0ce
 Language/Kurdish.ini,01d9aedf,3dae78ee,000337ec
-Language/Persian.ini,01d9aedf,3db99de4,000407ea
-Language/Polish.ini,01d9b071,3e04b53b,00032818
-Language/Portuguese.ini,01d9aedf,3dbb3a8d,0002d134
-Language/Russian.ini,01d9aedf,3dbbfdd4,00041874
-Language/Serbian.ini,01d9aedf,3dbccc7f,00037599
-Language/Spanish.ini,01d9b071,3e05edcb,0002b823
-Language/Swedish.ini,01d9aedf,3dbe03a6,000245eb
-Language/Thai.ini,01d9aedf,3dbf8a40,00041e05
-Language/Turkish.ini,01d9aedf,3dc074c1,0002d1c6
-Language/Ukrainian.ini,01d9aedf,3dc13939,0003b5f5
-Language/Uzbek(Latin).ini,01d9aedf,3dc1fc75,0002bee5
-Language/Tajik(Cyrillic).ini,01d9aedf,3dbec6ec,00024740
-History/Bulgarian.txt,01d9b071,3dfdfe9b,00028cb2
-History/Chinese(Simplified).txt,01d9aedf,f8836872,0001fc10
-History/Chinese(Traditional).txt,01d9aedf,f88479c4,0002054b
-History/English.txt,01d9aedf,f8857b23,00024bc7
-History/Hungarian.txt,01d9aedf,f886b3dc,00014a3b
-History/Japanese.txt,01d9aedf,f887dad4,0001335d
-History/Korean.txt,01d9aedf,f8893ac0,000251f6
-History/Polish.txt,01d9b071,3dff36fd,000281e5
-History/Russian.txt,01d9aedf,f88beb48,00034e2d
-History/Serbian.txt,01d9aedf,f88d3ae6,00013b55
-History/Turkish.txt,01d9aedf,f88e4c8d,00028d99
-History/Ukrainian.txt,01d9aedf,f88f75a9,0002153b
+Language/Persian.ini,01da11f7,7ac16f5a,000407e8
+Language/Polish.ini,01da0d3c,e8e295fd,000326f8
+Language/Portuguese.ini,01da11f7,7ac1bd3b,0002d000
+Language/Russian.ini,01da137a,ff442488,000419e7
+Language/Serbian.ini,01da11f7,7ac27fe3,00037597
+Language/Spanish.ini,01da0df5,f8363ffd,0002b296
+Language/Swedish.ini,01da11f7,7ac2cdc1,000245e9
+Language/Tamil.ini,01da11f7,7ac3906a,000616d6
+Language/Thai.ini,01da11f7,7ac3de46,00041e03
+Language/Turkish.ini,01da11f7,7ac45311,0002d1c4
+Language/Ukrainian.ini,01da11f7,7ac4a0f0,0003b5f3
+Language/Uzbek(Latin).ini,01da11f7,7ac4eecc,0002bee3
+Language/Tajik(Cyrillic).ini,01da11f7,7ac31b9f,0002473e
+History/Bulgarian.txt,01da0d3c,e8dca28d,00042608
+History/Chinese(Simplified).txt,01da0d3c,e8dcf0ae,00020094
+History/Chinese(Traditional).txt,01da0d3c,e8dd17bd,00020a14
+History/English.txt,01da0d3e,2c918ccd,0002511f
+History/Hungarian.txt,01da0d3e,2c91daee,00014f93
+History/Japanese.txt,01da0d3c,e8dddb0e,00013a18
+History/Korean.txt,01da0d3c,e8de292d,000256fa
+History/Polish.txt,01da0d3c,e8de503d,000288bb
+History/Russian.txt,01da137a,ff43d6af,00035a3a
+History/Serbian.txt,01da0d3e,2c92772c,000140ad
+History/Turkish.txt,01da0d3e,2c92c556,000292f1
+History/Ukrainian.txt,01da0d3e,2c931372,00021a93
 License.txt,01d9aedf,3dcdf138,0000d0c7
 CmdLine.txt,01d9aedf,326c41a2,0000c50c
 IconPack/OldIconPack.dll,01d9aedf,3d86248e,00178bb8
@@ -84,21 +85,21 @@ IconPack/PotIconsNew.dll,01d9aedf,3d8a439b,0027a3b8
 Logos/PotPlayer.png,01d9aedf,3dd08955,00002108
 PotIcons.dll,01d9aedf,41066f5b,002683b8
 DaumCrashHandler.dll,01d9aedf,3599d129,00021210
-ATextOut.dll,01d9aedf,3170ffb3,000b6400
+ATextOut.dll,01da0d3c,e86c2d8a,000d4e10
 GameCaptureHook64.dll,01d9aedf,3d793d62,0009b218
 GameCaptureHook.dll,01d9aedf,3d7741a9,0007fc18
-ffcodec.dll,01d9b071,3e2f41d0,01cd3000
+ffcodec.dll,01da16cd,8a5128e9,01cd3c00
 DesktopHook64.dll,01d9aedf,359d3f0b,00015ca0
 DesktopHook.dll,01d9aedf,359b57e0,00012ca0
 DesktopHook.exe,01d9aedf,359c902a,000140a0
 DesktopHook64.exe,01d9aedf,359e044a,00017ca0
-PotPlayer.dll,01d9b074,b1824bba,01805000
+PotPlayer.dll,01da15fa,2009ca34,01828c00
 PotPlayer.exe,01d9aedf,3ac311fd,0003a7c0
 LGPL.TXT,01d9aedf,3d9e1b20,00006931
 DTDrop.exe,01d9aedf,3586d304,00020ea0
 CaptureUWP.dll,01d9aedf,3269a7a6,0001b8a0
 WebView2Loader.dll,01d9aedf,4187bc10,0001a1a0
-MediaDB.dll,01d9aedf,3de0499c,00704c10
+MediaDB.dll,01da0df5,f83d431f,00796210
 PotScreenSaver.scr,01d9aedf,4116d9c6,00039aa0
 Alarm.wav,01d9aedf,317a719e,0003a462
 PotPlayerMini.exe,01d9aedf,3acafbf3,0003a1c0
@@ -169,10 +170,10 @@ Module/RealCodec/sipr.dll,01d9aedf,3f86653c,00022000
 Module/RealCodec/pncrt.dll,01d9aedf,3f857ab7,00044000
 Module/RealCodec/msvcr71.dll,01d9aedf,3f846945,00054000
 Module/AcmVorbis.dll,01d9aedf,3e8aa229,000aba00
-Module/MediaInfo.dll,01d9aedf,3f4ef4e1,005ca190
+Module/MediaInfo.dll,01da0d3c,e8e925ac,005d9db8
 Module/QuickSync.dll,01d9aedf,3f7b7ba2,00067650
-Html/Init.htm,01d9aedf,3d84b3db,00000e77
-Html/InitMini.htm,01d9aedf,3d84dad5,00000b96
+Html/Init.htm,01da0d3c,e8e0731d,00000e79
+Html/InitMini.htm,01da0d3c,e8e09a2e,00000bc6
 Html/ErrorList.htm,01d9aedf,3d843e9c,00001100
 Html/ErrorListMini.htm,01d9aedf,3d8465aa,00000c11
 Html/loading.gif,01d9aedf,3d8512c8,000053c8
